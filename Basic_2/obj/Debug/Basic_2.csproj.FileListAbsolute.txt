@@ -1,0 +1,8 @@
+C:\Users\prati\source\repos\Basic_2\Basic_2\obj\Debug\Basic_2.csproj.AssemblyReference.cache
+C:\Users\prati\source\repos\Basic_2\Basic_2\obj\Debug\Basic_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\prati\source\repos\Basic_2\Basic_2\obj\Debug\Basic_2.csproj.CoreCompileInputs.cache
+C:\Users\prati\source\repos\Basic_2\Basic_2\bin\Debug\Basic_2.exe.config
+C:\Users\prati\source\repos\Basic_2\Basic_2\bin\Debug\Basic_2.exe
+C:\Users\prati\source\repos\Basic_2\Basic_2\bin\Debug\Basic_2.pdb
+C:\Users\prati\source\repos\Basic_2\Basic_2\obj\Debug\Basic_2.exe
+C:\Users\prati\source\repos\Basic_2\Basic_2\obj\Debug\Basic_2.pdb
